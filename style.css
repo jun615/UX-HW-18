@@ -197,22 +197,22 @@ h3 {
   .workheader {
     top: 450px;
     }
-    .blockUX {
-        position: relative;
-        width: 400px;
-        height: 650px;
-        background-color: rgb(19, 151, 142);
-        bottom: 30px;
-      }
-      .myWork {
-        display: flex;
-        justify-content: space-around;
-        margin-top: 570px;
-      }
-      .picture {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+.blockUX {
+    position: relative;
+    width: 400px;
+    height: 650px;
+    background-color: rgb(19, 151, 142);
+    bottom: 30px;
+    }
+.myWork {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 570px;
+    }
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
     .buttonwork1 {
     background-color:  rgb(19, 151, 142); 
