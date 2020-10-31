@@ -1,3 +1,4 @@
+
 body {
     padding: 0;
     margin: 0;
@@ -271,6 +272,7 @@ h3 {
 }
 .hero {
     color: white;
+    margin: 0px 0px 0px 0px;
 }
 .heythere {
     font-family: 'Montserrat', sans-serif;
@@ -279,6 +281,9 @@ h3 {
     top: 120px;
     left: 300px;
     color: turquoise;
+    width: 700px;
+    margin-right: 1cm;
+ 
 }
 .thename {
     font-family: 'Montserrat', sans-serif;
@@ -287,6 +292,7 @@ h3 {
     position: relative;
     top: 293px;
     left: 500px;
+    width: 300px;
 }
 .JUN {
     font-family: 'Bungee Shade', cursive;
@@ -295,6 +301,7 @@ h3 {
     left: 820px;
     top: 172px;
     color: rgb(255, 90, 61);
+    width: 300px;
 }
 .hotelier {
     font-family: 'Montserrat', sans-serif;
@@ -303,6 +310,7 @@ h3 {
     position: relative;
     top: 112px;
     left: 1135px;
+    width: 450px;
 }
 .designer {
     font-family: 'Montserrat', sans-serif;
@@ -311,6 +319,7 @@ h3 {
     position: relative;
     top: 160px;
     left: 600px;
+    width: 720px;
 }
 .intro {
     font-family: "Lato", sans-serif;
@@ -320,6 +329,7 @@ h3 {
     top: 300px;
     font-size: 20px;
     left: 580px;
+    width: 700px;
 }
 .excited {
     font-family: "Lato", sans-serif;
@@ -329,6 +339,7 @@ h3 {
     top: 300px;
     font-size: 20px;
     left: 610px;
+    width: 600px;
 }
 footer {
     padding: 0;
